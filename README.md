@@ -1,5 +1,4 @@
-# CS-350-Emerging-Sys-Arch-Tech
-CS-350: Emerging Systems Architecture &amp; Technology
+# CS-350: Emerging Systems Architecture & Technology
 
 ## Morse Code
 
